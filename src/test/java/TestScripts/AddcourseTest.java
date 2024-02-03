@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericutilities.Baseclass;
 import genericutilities.iconstantpath;
-
+//this test  is verifies
 public class AddcourseTest extends Baseclass {
 	@Test
 	public void addcourseTest() {
