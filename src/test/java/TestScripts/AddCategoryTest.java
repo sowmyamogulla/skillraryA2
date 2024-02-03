@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericutilities.Baseclass;
 import genericutilities.iconstantpath;
-
+//This test is verifies
 public class AddCategoryTest extends Baseclass {
 @Test
 public void addcategoryTest() {
